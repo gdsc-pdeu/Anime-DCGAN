@@ -103,5 +103,7 @@ Also create the required folders (results & saved models folders) on the drive.
 
 This approach is same as depicted in the book "GAN Projects Ahirwar & Kailash", although the code in the book and their repository have some issues due to dependancies upgrade and the code is scrambled into one file, this code (uploaded by me) is a refactored version with corrected errors and is a working implementation. I will soon upload exciting applications using this model.
 
+# Author
 
+<a href="https://github.com/aashay15">Aashay Sharma</a>
 
