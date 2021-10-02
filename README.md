@@ -105,5 +105,5 @@ This approach is same as depicted in the book "GAN Projects Ahirwar & Kailash", 
 
 # Author
 
-<a href="https://github.com/aashay15">Aashay Sharma</a>
+<a href="https://github.com/aashay15">Aashay Sharma</a> | NJIET
 
